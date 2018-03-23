@@ -99,7 +99,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chris Goode"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing eggplant."
   location         : "Somewhere"
