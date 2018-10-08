@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Making Stuff in Decatur"
+title                    : "bear with me here..."
 title_separator          : "-"
 name                     : "Chris Goode"
 description              : "An amazing website."
@@ -101,9 +101,9 @@ analytics:
 author:
   name             : "Chris Goode"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a maker in Decatur."
+  bio              : "I'm an educator and maker in Decatur, GA."
   location         : "Decatur, GA"
-  email            :
+  email            : "chris.goode@decaturmakers.org"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -128,7 +128,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :  "https://www.youtube.com/channel/UCQoQqKXcQv_m8_KcRE6vprQ"
+  youtube          :  "https://www.youtube.com/channel/UCbMIQqLDCJa8Oa2ixXNCb8Q"
 
 
 # Reading Files
