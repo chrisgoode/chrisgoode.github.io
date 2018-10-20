@@ -14,11 +14,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/Deacy-Preview/",
         "teaser":null},{
-        "title": "Deacy Preview",
-        "excerpt":"My buddy Bill Sandidge and others at Decatur Makers helped me take an e-bay find and convert it into a replica of Queen’s celebrated studio amp, nicknamed “The Deacy”.   ","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/Deacy-Preview0/",
-        "teaser":null},{
         "title": "The Deacy",
         "excerpt":"I originally published this video over at drchrisgoode, but I wanted makers to see it here. This is a replica of the amplifier that John Deacon made and Brian May played through on some Queen albums. It runs on a 9V battery (the British ones, not the ones you can...","categories": [],
         "tags": [],
@@ -35,7 +30,7 @@ var store = [{
         "url": "http://localhost:4000/Kevin/",
         "teaser":null},{
         "title": "CNC Electric Guitars (and basses!)",
-        "excerpt":"I’ve spent the better part of the past year learning how to design and make electric guitars and basses using Autodesk’s Fusion 360 and the CNC milling machine at my makerspace Decatur Makers. I’m no expert by any means, but there’s a great deal of interest in this method for...","categories": [],
+        "excerpt":"I’ve spent the better part of the past year learning how to design and make electric guitars and basses using Autodesk’s Fusion 360 and the CNC milling machine at my makerspace Decatur Makers. I’m no expert by any means, but because there’s a great deal of interest in this method...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/CNC-Electric-Guitars/",
         "teaser":null}]
