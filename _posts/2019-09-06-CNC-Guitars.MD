@@ -1,5 +1,5 @@
 ---
 layout: single
-title: How to Make an Electric Guitar using Fusion 360 and CNC - Step 4
+title: How to Make an Electric Guitar using Fusion 360 and CNC - Step 5
 ---
-In step 4 of this series we take a quick look at how to post process toolpaths in Fusion 360 to generate gcode that the [Decatur Makers](https://decaturmakers.org) CNC milling machine can understand. We use Mach 3 to control our CNC, and Fusion 360's Mach 3 post processor works just great. Hey why not build your own CNC? You can find plans over at [Joe's CNC](https://www.joescnc.com){% include video id="Fz1a429NFq8" provider="youtube" %}
+Here we finally leave our guitar body behind and start tackling the neck. This first part covers the fretboard. The thing of interest to non-luthiers here is that it's the first model in this series that has a curve into the z dimension - so this is a model that might be difficult to cut from 2D CAD programs like V-Carve or perhaps Easel. By the way, if anybody has any tips as to how I could improve my Fusion 360 skills, please reach out! I'm a total amateur with no formal training in CAD/CAM and just jumped right into guitar making - I am probably making a bunch of rookie mistakes...{% include video id="isiBCyySwvM" provider="youtube" %}
